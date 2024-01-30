@@ -80,7 +80,7 @@ button {
     border-radius: 5px;
     padding: 0 10px;
     margin: 10px auto;
-    background: rgb(252, 203, 0);
+    background: rgb(254, 195, 13);
     transition: background 0.3s ease;
 }
 button:hover {
