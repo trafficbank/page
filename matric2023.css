@@ -28,13 +28,13 @@
 }
 body {
     direction: lfl;
-    background: #EEEDEB;
+    background: #A9A9A9;
 }
 a {
     text-decoration: none;
 }
 .post {
-    background: #A9A9A9;
+    background: #EEEDEB;
     margin: 0 auto;
     padding: 10px;
     max-width: 500px;
