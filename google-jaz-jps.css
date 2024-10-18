@@ -150,7 +150,7 @@ button:hover {
 }
 #fill,
 #fill2 {
-    background: #900000;
+    background: #960804;
     width: 0%;
     height: 100%;
 }
@@ -159,7 +159,7 @@ button:hover {
     float: right;
     height: 35px;
     font-size: 16px;
-    border: 2px solid #900000;
+    border: 2px solid #960804;
 }
 #percentage,
 #percentage2 {
