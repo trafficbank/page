@@ -146,11 +146,11 @@ button:hover {
     width: calc(100% - 100px);
     height: 35px;
     padding: 2px;
-    border: 2px solid #FAF5EB;
+    border: 2px solid #900000;
 }
 #fill,
 #fill2 {
-    background: #FAF5EB;
+    background: #900000;
     width: 0%;
     height: 100%;
 }
@@ -159,7 +159,7 @@ button:hover {
     float: right;
     height: 35px;
     font-size: 16px;
-    border: 2px solid #FAF5EB;
+    border: 2px solid #900000;
 }
 #percentage,
 #percentage2 {
@@ -233,7 +233,7 @@ button:hover {
 }
 .single-container {
     margin-left: 37px;
-    background: #FAF5EB;
+    background: #900000;
     padding: 10px;
     border-radius: 15px;
     font-size: 12px;
