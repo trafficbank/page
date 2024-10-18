@@ -50,7 +50,7 @@ a {
 }
 .amount,
 #getname {
-    color: #ffffff;
+    color: ##960804;
     text-decoration: none;
 }
 .done {
@@ -174,7 +174,7 @@ button:hover {
     font-size: 12px;
     text-align: right;
     padding: 10px 0 10px 2px;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #960804;
 }
 .reactions {
     display: inline-flex;
